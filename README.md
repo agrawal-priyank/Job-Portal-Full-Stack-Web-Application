@@ -16,4 +16,4 @@ Java, JavaScript, J2EE, JSP, Servlets, Spring MVC, Hibernate, Maven, JSON, JQuer
 
 # Environment
 
-Eclipse, NetBeans, Dreamweaver, MySQL
+IDE: Eclipse, NetBeans, Dreamweaver, MySQL

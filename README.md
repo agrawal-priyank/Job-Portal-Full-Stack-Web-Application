@@ -1,6 +1,6 @@
 # Professional Job Portal - Full Stack Web Application
 
-I made this final project for the course Web Development Tools and Methods which I studied in the Spring 2016 semester during my graduate study of Master of Science in Information Systems at Northeastern University, Boston.
+This is the final project for the course Web Development Tools and Methods. It is a professional job portal.
 
 # Project Description
 

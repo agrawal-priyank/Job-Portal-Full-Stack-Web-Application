@@ -10,7 +10,7 @@
 ### Programming Language
 Java, JavaScript, SQL
 
-### Technologies
+### Web Technologies and Frameworks
 J2EE, JSP, Servlets, Spring MVC, Hibernate, Maven, JSON, JQuery, Ajax, HTML/CSS, Bootstrap
 
 ### IDE
